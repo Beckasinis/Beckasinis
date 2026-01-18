@@ -15,14 +15,14 @@ Vem är du? (CV): En personlig presentation och en länk till din LinkedIn eller
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a project in the course UX and UI, with the best company.
-- 🌱 I’m currently learning UX / UI wich is a blast!
-- 👯 I’m looking to collaborate on the best teamworks I've ever been in.
-- 🤔 I’m looking for help with all what I don't know, just to learn even more.
-- 💬 Ask me about dogs and I will learn you things you never thought to know.
-- 📫 How to reach me: Just reach out!
-- 😄 Comedy is such an underestimated force. 
-- ⚡ Fun fact: Leaving all what I have ever done, for something I've always dreamed for.
+ 🔭 I’m currently working on a project in the course UX and UI, with the best company.
+ 🌱 I’m currently learning UX / UI wich is a blast!
+ 👯 I’m looking to collaborate on the best teamworks I've ever been in.
+ 🤔 I’m looking for help with all what I don't know, just to learn even more.
+ 💬 Ask me about dogs and I will learn you things you never thought to know.
+ 📫 How to reach me: Just reach out!
+ 😄 Comedy is such an underestimated force. 
+ ⚡ Fun fact: Leaving all what I have ever done, for something I've always dreamed for.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://www.facebook.com/rebecca.martis.3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccis22@hotmail.com)</br>
