@@ -4,6 +4,15 @@ I'm a careing, down to earth person, that loves to solve issues and have an eye 
 <!--
 **Beckasinis/Beckasinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Vad din portfolio BÖR innehålla:
+För att sticka ut hos arbetsgivare bör du ha med dessa tre delar:
+
+Projektgalleri: Inte bara en bild, utan en kort text om varför du byggde projektet, vilka tekniker du använde och vilken utmaning du löste.
+
+Länkar: Varje projekt bör ha en länk till den levande sajten (så de kan testa den) och en länk till källkoden (så de kan se hur du skriver kod).
+
+Vem är du? (CV): En personlig presentation och en länk till din LinkedIn eller ett nedladdningsbart PDF-CV.
+
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a project in the course UX and UI, with the best company.
