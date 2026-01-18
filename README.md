@@ -4,6 +4,29 @@ I'm a careing, down to earth person, that loves to solve issues and have an eye 
 <!--
 **Beckasinis/Beckasinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🎨 :art: – Förbättra struktur/format.
+⚡️ :zap: – Förbättra prestanda.
+🚑️ :ambulance: – Kritisk hotfix.
+♻️ :recycle: – Refaktorera kod.
+🚀 :rocket: (Lansering/Uppdatering)
+✨ :sparkles: (Ny funktion)
+🐛 :bug: (Bugfix)
+🔥 :fire: (Ta bort kod/filer)
+📝 :memo: (Dokumentation)
+✅ :white_check_mark: (Klart/Test)
+🔒 :lock: (Säkerhet)
+🚧 :construction: (Under arbete)
+🎉 :tada: (Release/Firande)
+🛑 :stop_sign: (Stopp/Problem)
+💡 :bulb: (Tips)
+🐶	:dog:
+🤔
+:+1: 👍
+:-1: 👎
+:heart: ❤️
+:eyes: 👀
+
+
 Vad din portfolio BÖR innehålla:
 För att sticka ut hos arbetsgivare bör du ha med dessa tre delar:
 
@@ -18,11 +41,11 @@ Here are some ideas to get you started:
  🔭 I’m currently working on a project in the course UX and UI, with the best company.<br>
  🌱 I’m currently learning UX / UI wich is a blast!<br>
  👯 I’m looking to collaborate on the best teamworks I've ever been in.<br>
- 🤔 I’m looking for help with all what I don't know, just to learn even more.<br>
- 💬 Ask me about dogs and I will learn you things you never thought to know.<br>
+ 💡 I’m looking for help with all what I don't know, just to learn even more.<br>
+ 💬 Ask me about 🐶 and I will learn you things you never thought to know.<br>
  📫 How to reach me: Just reach out!<br>
- 😄 Comedy is such an underestimated force.<br>
- ⚡ Fun fact: Leaving all what I have ever done, for something I've always dreamed for.<br>
+ 🎉 Comedy is such an underestimated force.<br>
+ 😄 Fun fact: Leaving all what I have ever done, for something I've always dreamed for.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://www.facebook.com/rebecca.martis.3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccis22@hotmail.com)<br>
