@@ -1,5 +1,5 @@
 # 💫 About Me 💫
-I'm a careing, down to earth person, that loves to solve issues and have an eye and feeling for design. <br>Love photographing, love my dogs, love nature, love learning code and love experiences and adventures in daily life and in worklife. <br>
+I'm a careing, down to earth person, that loves to solve issues and have an eye and feeling for design. <br>Love photographing, love my dogs, love nature, love learning code and love experiences and adventures in daily life and in worklife. I am easy going with an positive attitude.<br>
 👋
 <!--
 **Beckasinis/Beckasinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
