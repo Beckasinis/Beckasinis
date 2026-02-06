@@ -88,7 +88,6 @@ Go and check out my past life and what my experiences are on:  [![LinkedIn](http
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Beckasinis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Beckasinis&theme=dark&hide_border=false)<br/>
