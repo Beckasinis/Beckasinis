@@ -41,8 +41,8 @@ Vem är du? (CV): En personlig presentation och en länk till din LinkedIn eller
 
 Here are some ideas to get you started:
 -->
- 👀 I’m currently working on a project in the course UX and UI, on ECutbildning.<br>
- 🌱 I’m currently learning UX / UI wich is a blast!<br>
+ 👀 I’m currently studying to Frontenddeveloper on ECutbildning online.<br>
+ 🌱 Right now I'm learning JavaScript wich is a blast!<br>
  👯 I’m looking to collaborate on the best teamworks I've ever been in.<br>
  💡 I’m looking for help with all what I don't know, just to learn even more.<br>
  💬 Ask me about 🐶 and I will learn you things you never thought to know.<br>
