@@ -53,7 +53,11 @@ Here are some ideas to get you started:
 
  ✨Live Demos: <br>
  Fantastic Good News - https://fantasticgoodnews.netlify.app/ (HTML och CSS kurs) <br>
- Rentit-Dont buy it! - https://rentitproject.netlify.app/#home (JavaScript 1 kurs) <br>
+ Git repo: https://github.com/Beckasinis/Code.git<br>
+ <br>
+ Rentit - Dont buy it! - https://rentitproject.netlify.app/#home (JavaScript 1 kurs) <br>
+ Git repo: https://github.com/Beckasinis/Rentit.git <br>
+ <br>
  Cool Fashion - https://www.figma.com/design/tfOlXMx0mWy6EzdJziGxfy/Cool-Fashion--Copy-?node-id=0-1&t=HVbl55KCbmpflsNB-1 (UX och UI kurs) 
 
 ## 🌐 Socials:
