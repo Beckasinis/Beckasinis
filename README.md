@@ -51,14 +51,17 @@ Here are some ideas to get you started:
  😄 Fun fact: Leaving all what I have ever done, for something I've always dreamed for.<br>
  🏁 The goal is to become ✨Frontend Developer✨, baked and fresh summer 2027!🌞🎉
 
- ✨Live Demos: <br>
- Fantastic Good News - https://fantasticgoodnews.netlify.app/ (HTML och CSS kurs) <br>
+ ✨Projects: <br>
+ #### Fantastic Good News
+ Live demo: https://fantasticgoodnews.netlify.app/ (HTML och CSS kurs) <br>
  Git repo: https://github.com/Beckasinis/Code.git<br>
  <br>
- Rentit - Dont buy it! - https://rentitproject.netlify.app/#home (JavaScript 1 kurs) <br>
+ #### Rentit - Dont buy it! 
+ Live demo: https://rentitproject.netlify.app/#home (JavaScript 1 kurs) <br>
  Git repo: https://github.com/Beckasinis/Rentit.git <br>
  <br>
- Cool Fashion - https://www.figma.com/design/tfOlXMx0mWy6EzdJziGxfy/Cool-Fashion--Copy-?node-id=0-1&t=HVbl55KCbmpflsNB-1 (UX och UI kurs) 
+ #### Cool Fashion - Dare to be unique
+ Live view: https://www.figma.com/design/tfOlXMx0mWy6EzdJziGxfy/Cool-Fashion--Copy-?node-id=0-1&t=HVbl55KCbmpflsNB-1 (UX och UI kurs) 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://www.facebook.com/rebecca.martis.3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccis22@hotmail.com)<br>
