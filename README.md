@@ -61,7 +61,8 @@ Here are some ideas to get you started:
  Git repo: https://github.com/Beckasinis/Rentit.git <br>
 
  ### Cool Fashion - Dare to be unique <br>
- Live view: https://www.figma.com/design/tfOlXMx0mWy6EzdJziGxfy/Cool-Fashion--Copy-?node-id=0-1&t=HVbl55KCbmpflsNB-1 (UX och UI kurs) 
+ Live view: https://www.figma.com/design/tfOlXMx0mWy6EzdJziGxfy/Cool-Fashion--Copy-?node-id=0-1&t=HVbl55KCbmpflsNB-1 <br> 
+ (UX och UI kurs) 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://www.facebook.com/rebecca.martis.3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccis22@hotmail.com)<br>
