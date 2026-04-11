@@ -112,9 +112,6 @@ Go and check out my past life and what my experiences are on:  [![LinkedIn](http
 ![](https://nirzak-streak-stats.vercel.app/?user=Beckasinis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beckasinis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Beckasinis&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Beckasinis&icon=0&color=0)](https://visitcount.itsvg.in)
 
