@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
  ## Projects: <br>
  ### Fantastic Good News <br>
- Live demo: https://fantasticgoodnews.netlify.app/ (HTML och CSS kurs) <br>
+ 🎬 **[Live demo](https://fantasticgoodnews.netlify.app/)** (HTML och CSS kurs) <br>
  Git repo: https://github.com/Beckasinis/Code.git <br>
 
  ### Rentit - Dont buy it!  <br>
- Live demo: https://rentitproject.netlify.app/#home (JavaScript 1 kurs) <br>
+ 🎬 **[Live demo](https://rentitproject.netlify.app/)** (JavaScript 1 kurs) <br>
  Git repo: https://github.com/Beckasinis/Rentit.git <br>
 
  ### Cool Fashion - Dare to be unique <br>
