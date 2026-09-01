@@ -52,6 +52,10 @@ Here are some ideas to get you started:
  🏁 The goal is to become ✨Frontend Developer✨, baked and fresh summer 2027!🌞🎉
 
  ## Projects: <br>
+  ### BilDeck <br>
+ 🎬 **[Live demo](https://bildeck.netlify.app/)** (JavaScript 2 kurs) <br>
+ Git repo: https://github.com/Beckasinis/BilDeck <br>
+ 
  ### Fantastic Good News <br>
  🎬 **[Live demo](https://fantasticgoodnews.netlify.app/)** (HTML och CSS kurs) <br>
  Git repo: https://github.com/Beckasinis/Code.git <br>
